@@ -7,7 +7,7 @@
 - 📚 I'm currently working towards my Computer Science degree at the University of Iceland.
 - 👀 I have a passion for learning new things and solving problems.
 - 🌱 I particularly enjoy how Object-Oriented Programming (OOP) works.
-- 📫 How to reach me <a href="mailto:nouvanjonsson@gmail.com">Email</a>/<a href ="www.linkedin.com/in/nouvan-shebubakar-jónsson-7a7252262">LinkedIn</a>
+- 📫 How to reach me <a href="mailto:nouvanjonsson@gmail.com">Email</a>/<a href ="www.linkedin.com/in/nouvanjonsson">LinkedIn</a>
 - 😄 Fun fact: I love traveling ✈️, playing video games 🎮 and trying out every kind of food 🍔.
 - 🏹 2024/2025 Learning targets: Enhance my skill in Java and its frameworks, Database Management, TypeScript, React, 
   writing better and more efficient code by adopting best practices and optimizing my development processes.
